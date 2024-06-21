@@ -1,4 +1,4 @@
-# Dataset-Bangkit-Product-Capstone
+# Bangkit-Product-Capstone
 EcoMeter: Tracking Urban Footprints for Climate Resilience
 
 ### Overview
