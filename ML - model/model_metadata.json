@@ -1,0 +1,1 @@
+{"model_name": "TensorFlow Lite Regression Model", "version": "1.0", "input_shape": 3, "output_shape": 1, "epochs": 50, "optimizer": "adam", "loss": "mean_squared_error", "metrics": ["mse"], "description": "Model ini digunakan untuk memprediksi emisi CO2 berdasarkan ukuran mesin, jumlah silinder, dan konsumsi bahan bakar."}
