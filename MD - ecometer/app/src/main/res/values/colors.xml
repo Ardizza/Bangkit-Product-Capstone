@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#497609</color>
+    <color name="primary_light">#6e9c33</color> <!-- Lighten the primary color -->
+    <color name="primary_dark">#314d05</color> <!-- Darken the primary color -->
+    <color name="divider">#6e9c33</color> <!-- Darken the primary color -->
+    <color name="secondary">#376307</color> <!-- Slightly different shade of primary color -->
+    <color name="accent">#2e5006</color> <!-- Another variation for accents -->
+    <color name="background">#ffffff</color> <!-- White for background -->
+    <color name="surface">#f0f0f0</color> <!-- Light grey for surfaces -->
+    <color name="on_primary">#ffffff</color> <!-- White for text/icons on primary color -->
+    <color name="on_secondary">#ffffff</color> <!-- White for text/icons on secondary color -->
+    <color name="on_background">#000000</color> <!-- Black for text/icons on background -->
+    <color name="on_surface">#000000</color> <!-- Black for text/icons on surfaces -->
+</resources>

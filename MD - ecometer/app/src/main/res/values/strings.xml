@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">EcoMeter</string>
+    <string name="title_calculator">Calculator</string>
+    <string name="title_report">Report</string>
+    <string name="title_recommendations">Recommendations</string>
+
+    <string-array name="vehicle_types">
+        <item>Car</item>
+        <item>Motorcycle</item>
+    </string-array>
+
+    <string-array name="fuel_types_car">
+        <item>Small Car (Up to 1500 CC)</item>
+        <item>Medium Car (Up to 3000 CC)</item>
+        <item>Big Car (Over 3000 CC)</item>
+    </string-array>
+
+    <string-array name="fuel_types_motorcycle">
+        <item>Avg 125 CC</item>
+        <item>Avg 250 CC</item>
+        <item>Avg 500 CC</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/navigation_calculator">
+
+    <fragment
+        android:id="@+id/navigation_calculator"
+        android:name="com.example.ecometer.ui.calculator.CalculatorFragment"
+        android:label="@string/title_calculator"
+        tools:layout="@layout/fragment_calculator" />
+
+    <fragment
+        android:id="@+id/navigation_report"
+        android:name="com.example.ecometer.ui.report.ReportFragment"
+        android:label="@string/title_report"
+        tools:layout="@layout/fragment_report" />
+
+    <fragment
+        android:id="@+id/navigation_recommendations"
+        android:name="com.example.ecometer.ui.recommendations.RecommendationsFragment"
+        android:label="@string/title_recommendations"
+        tools:layout="@layout/fragment_recommendations" />
+
+</navigation>
